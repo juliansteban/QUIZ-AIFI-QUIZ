@@ -1,0 +1,7 @@
+{
+  "name": "AIFI-QUIZ/TEST",
+  "description": "Plataforma web educativa con sistema avanzado de exámenes, evaluaciones orales, control anti-copia y refuerzo académico adaptativo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
